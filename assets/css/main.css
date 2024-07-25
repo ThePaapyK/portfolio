@@ -72,6 +72,9 @@ input, select, textarea {
 	appearance: none;
 }
 
+.b-ol {
+  font-weight: bold;
+}
 /* Basic */
 
 	@-ms-viewport {
